@@ -1,5 +1,5 @@
-<h3>Hi 👋, I'm Sandipan Biswas</h3>
-<h5>A tech-enthusiast with interest in Mobile App Development. I am proficient in Kotlin and i am currently learning Flutter to enhance my skills further.</h5>
+<h2>Hi 👋, I'm Sandipan Biswas</h2>
+<h4>A tech-enthusiast with interest in Mobile App Development. I am proficient in Kotlin and i am currently learning Flutter to enhance my skills further.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipanxd&label=Profile%20views&color=0e75b6&style=flat" alt="sandipanxd" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Kotlin**
 
-- 📫 How to reach me **sandipanbiswas053@gmail.com**
+- 📫 Reach me at **sandipanbiswas053@gmail.com** or any of the social media links listed below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
