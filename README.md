@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **sandipanbiswas053@gmail.com** or any of the social media links listed below
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at:</h3>
 <p align="left">
 <a href="https://twitter.com/sandipa20660767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandipa20660767" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandipan-biswas-8b750b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan biswas" height="30" width="40" /></a>
