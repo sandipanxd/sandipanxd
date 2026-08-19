@@ -73,7 +73,7 @@ I enjoy solving backend problems end-to-end — from understanding requirements 
 ## 🎯 What I'm Focusing On
 
 ```text
-Backend Engineering   ████████████████████  Building scalable systems
+Backend Engineering    ████████████████████  Building scalable systems
 System Design          ██████████████████░░  Designing better architectures
 AWS & Cloud            █████████████████░░░  Deepening cloud expertise
 Microservices          █████████████████░░░  Distributed systems
